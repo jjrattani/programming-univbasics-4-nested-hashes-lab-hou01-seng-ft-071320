@@ -19,7 +19,7 @@ programmer_hash[:grace_hopper]
 
 end
 
-#hopper[programmer_hash][:grace_hopper]
+#hopper[:grace_hopper] --> alt. if not define in function
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
